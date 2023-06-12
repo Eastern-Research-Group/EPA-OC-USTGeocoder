@@ -2,3 +2,7 @@
 *.xlsx
 *.csv
 *.json
+*.geodatabase
+*.geodatabase-conch
+*.geodatabase-shm
+*.geodatabase-wal
